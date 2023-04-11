@@ -1,0 +1,21 @@
+names:
+- Dime
+- Nickel
+- Penny
+- Quarter
+- fifty
+- five
+- hundred
+- one
+- ten
+- twenty
+nc: 10
+roboflow:
+  license: CC BY 4.0
+  project: counter-y13yi
+  url: https://universe.roboflow.com/project/counter-y13yi/dataset/2
+  version: 2
+  workspace: project
+test: test/images
+train: train/images
+val: valid/images
